@@ -1,86 +1,119 @@
-# 🌌 Shamim Reza — Electrical & Electronic Engineer | Renewable Energy Researcher ⚡
+# 🌌 Shamim Reza — Researcher in Electrical & Electronic Engineering ⚡
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Solar%20Cells-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Semiconductors-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Passion-Power%20Electronics%20%26%20Satellites-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Applications-Power%20Electronics%20%26%20Satellites-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vision-Integrated%20Renewables-green?style=for-the-badge" />
 </p>  
 
 ---
 
-## 👋 About Me
+## 🧑‍🎓 Academic Profile
 
-I’m **Shamim Reza**, an **Electrical & Electronic Engineering undergraduate** with a passion for:
+I am **Shamim Reza**, an **Electrical & Electronic Engineering undergraduate** on a research-driven journey toward a **PhD in Renewable Energy**.
 
-* 🌞 **Solar Photovoltaics** (triple absorber solar cells, perovskites, advanced absorber layers)
-* ⚡ **Power Electronics & Satellites** (applied circuits, reliability, aerospace energy integration)
-* 📡 **RF & Antennas** (theory, simulation, machine learning integration)
-* 🔬 **Semiconductors & Solid-State Physics** (deep-dive into physics foundations, 6-month roadmap for mastery)
-* 🧩 **VLSI & Logic Design** (coursework, state machines, design automation)
-
-🎯 **Vision:** To contribute to Europe’s renewable energy transition through **integrated solar, wind, and hydrogen systems**, supported by cutting-edge semiconductor innovations.
+🔬 My work bridges **fundamental semiconductor physics** with **applied renewable energy systems**.
+🌍 My vision is to contribute to **Europe’s energy transition**, developing **integrated solar, wind, and hydrogen technologies** supported by **advanced semiconductor devices**.
+📡 I also explore **RF, antennas, and satellites** — extending renewable research into **aerospace and communication domains**.
 
 ---
 
-## 🚀 Current & Recent Projects
+## 🎯 Research Interests
 
-🔬 **Research Papers**
-
-* *Simulation and Numerical Analysis of Triple Absorber Solar Cell* — ongoing paper, simulations, and numerical modeling
-* *Strengthening Perovskite Solar Cells* — literature review, strategy development, curated reading list (2016–2025 papers)
-
-💡 **Coursework & Technical Work**
-
-* VLSI & Solid-State Devices — logic/state diagrams, truth tables, waveform analysis
-* Power Electronics — circuits & satellite power systems
-* RF & Antenna Problem Sets — theoretical + applied problem solving
-
-📡 **Exploratory Projects**
-
-* RF + ML Fusion — bridging communication systems with AI
-* GitHub Projects with stylized README.md and banners
+* 🌞 **Solar Photovoltaics** → Triple absorber cells, perovskites, multijunction efficiency strategies
+* 💎 **Semiconductors & Solid-State Devices** → Junction physics, carrier transport, fabrication models
+* ⚡ **Power Electronics** → Renewable converters, inverters, satellite power integration
+* 📡 **RF & Antennas** → Design, propagation, ML-enhanced system optimization
+* 🧩 **VLSI & Digital Systems** → Logic design, state machines, applied coursework simulations
 
 ---
 
-## 🛠️ Tools & Skills
+## 📚 Current Research Work
 
-* **Languages**: Python, MATLAB, Verilog, C
-* **Simulation/Design Tools**: LTspice, Proteus, MATLAB Simulink, COMSOL (learning), Cadence (exposure)
-* **Research Areas**: Photovoltaics, Perovskites, Semiconductors, Power Electronics, Satellite Energy Systems, RF + ML integration
+📘 **Simulation and Numerical Analysis of Triple Absorber Solar Cell**
 
----
+> Numerical modeling and simulation of high-efficiency multijunction solar cells
 
-## 📈 Roadmap (Next 12–24 Months)
+🔬 **Strengthening Perovskite Solar Cells**
 
-✔️ Master semiconductor physics (6-month deep dive)
-✔️ Strengthen solar cell + perovskite simulation expertise
-✔️ Expand into integrated renewable systems (solar, wind, hydrogen fuel cells)
-✔️ Publish applied research papers
-🚀 Transition to **PhD-level applied renewable energy research** (Europe-focused industry collaboration)
+> Literature analysis (2016–2025), stability strategies, bandgap tuning, and performance enhancement
 
----
+⚡ **Power Electronics for Satellites**
 
-## 📚 Featured Knowledge Building
+> Applied coursework, converter design, and aerospace energy reliability
 
-* **Semiconductors** — Device physics, carrier transport, junctions, fabrication
-* **Solar Cells** — Triple absorber models, perovskite stability, efficiency strategies
-* **Power Electronics** — Converters, inverters, aerospace applications
-* **RF & Antennas** — Theory, simulation, ML-enhanced design
-* **VLSI** — Logic design, optimization, waveform/state analysis
+📡 **RF + Machine Learning Explorations**
+
+> Conceptual integration of AI into communication systems and antenna design
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Research Toolbox
+
+* **Programming & Modeling**: Python 🐍 · MATLAB ⚙️ · Verilog 💻 · C 🔧
+* **Simulation/Design**: LTspice ⚡ · Proteus 🔌 · MATLAB Simulink 📊 · COMSOL 🌀
+* **Domains**: Semiconductor Physics 💎 · Photovoltaics ☀️ · Power Electronics ⚡ · RF & Antennas 📡 · VLSI 🔲
+
+---
+
+## 📈 Academic Roadmap
+
+✔️ **6-Month Semiconductor Physics Mastery** — deep-dive into device fundamentals
+✔️ **Solar Cell Expertise** — simulation & perovskite-based efficiency improvement strategies
+✔️ **Research Publications** — building an applied academic portfolio
+🚀 **PhD Goal** — contribute to European industry-academic research in **integrated renewables**
+
+---
+
+## 📝 Featured Contributions
+
+* 🔬 *Simulation and Numerical Analysis of Triple Absorber Solar Cell* — [Research Paper, Ongoing]
+* 📖 *Strengthening Perovskite Research* — Curated literature review (2016–2025 papers)
+* 📡 *RF + ML Exploratory Project* — GitHub repository with stylized documentation
+* ⚡ *Solid-State & VLSI Coursework* — Logic diagramming, waveform/state analysis
+
+---
+
+## 🌐 Academic & Professional Links
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/shamimreza44"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/shamimreza44"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="c0io0jhty@mozmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>  
 
 ---
 
-✨ *“Engineering today for a renewable tomorrow.”* ✨
+<div align="center">
+  <a href="https://open.spotify.com/user/31fj46l7bc27nckw56w6jyujq7wu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fj46l7bc27nckw56w6jyujq7wu&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamimreza44/shamimreza44/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamimreza44/shamimreza44/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shamimreza44/shamimreza44/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+---
+
+## ✨ Motto
+
+> *“Engineering today for a renewable tomorrow.”* 🌍⚡
 
 ---
