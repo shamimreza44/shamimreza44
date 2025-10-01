@@ -18,3 +18,15 @@ jobs:
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
+          
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "chore: update metrics"
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
