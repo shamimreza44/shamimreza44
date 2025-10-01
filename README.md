@@ -1,11 +1,3 @@
-Perfect 👍 — thanks for letting me use *all* the context.
-
-That means I’ll combine **your academic path, research goals, project history, and long-term ambitions** (PhD in renewable energy, semiconductor expertise, solar cells, RF/antennas, power electronics, satellites, VLSI, etc.) into one **personal home README** that feels both **professional for academia/industry** and **engaging for GitHub visitors**.
-
-Here’s a **stunning draft README.md** for your home repo:
-
----
-
 # 🌌 Shamim Reza — Electrical & Electronic Engineer | Renewable Energy Researcher ⚡
 
 <p align="center">
