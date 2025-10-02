@@ -90,3 +90,5 @@ I am **Shamim Reza**, an **Electrical & Electronic Engineering undergraduate** o
 > *“Engineering today for a renewable tomorrow.”* 🌍⚡
 
 ---
+
+<p align="center"><img src="/metrics.svg" alt="Metrics" width="400"></p>
