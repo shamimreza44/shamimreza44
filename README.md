@@ -1,94 +1,35 @@
-# 🌌 Shamim Reza — Researcher in Electrical & Electronic Engineering ⚡
+# Hi 👋, I'm SHAMIM REZA
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Research-Solar%20Cells-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Semiconductors-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Applications-Power%20Electronics%20%26%20Satellites-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vision-Integrated%20Renewables-green?style=for-the-badge" />
-</p>  
+### A passionate EEE student. I use ARCH BTW.
 
----
+- 🔭 I'm currently working on **a material science project.**
 
-## 🧑‍🎓 Academic Profile
+- 🌱 I'm currently learning **Fortran**
 
-I am **Shamim Reza**, an **Electrical & Electronic Engineering undergraduate** on a research-driven journey toward a **PhD in Renewable Energy**.
+- 👯 I'm looking to collaborate on **any project related to material science.**
 
-🔬 My work bridges **fundamental semiconductor physics** with **applied renewable energy systems**.
-🌍 My vision is to contribute to **Europe’s energy transition**, developing **integrated solar, wind, and hydrogen technologies** supported by **advanced semiconductor devices**.
-📡 I also explore **RF, antennas, and satellites** — extending renewable research into **aerospace and communication domains**.
+- 🤝 I'm looking for help with **nothing at this moment.**
 
----
+- 💬 Ask me about **Bash, TypeScript, Python, SCAPS-1D, MATLAB, Lumerical FDTD, COMSOL**
 
-## 🎯 Research Interests
+- 📫 How to reach me **shamim44@student.sust.edu**
 
-* 🌞 **Solar Photovoltaics** → Triple absorber cells, perovskites, multijunction efficiency strategies
-* 💎 **Semiconductors & Solid-State Devices** → Junction physics, carrier transport, fabrication models
-* ⚡ **Power Electronics** → Renewable converters, inverters, satellite power integration
-* 📡 **RF & Antennas** → Design, propagation, ML-enhanced system optimization
-* 🧩 **VLSI & Digital Systems** → Logic design, state machines, applied coursework simulations
+- ⚡ Fun fact **An estimated 20–25 sextillion MOSFETs have been made worldwide up until 2025.**
 
----
+- 👨‍💻 All of my projects are available at **[https://shamimreza44.github.io/](https://shamimreza44.github.io/)**
 
-## 📚 Current Research Work
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/shamimreza44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shamimreza44" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shamimreza44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimreza44" height="30" width="40" /></a>
+<a href="https://fb.com/breakingbad007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="breakingbad007" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/NxW4kEy5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NxW4kEy5" height="30" width="40" /></a>
+</p>
 
-📘 **Simulation and Numerical Analysis of Triple Absorber Solar Cell**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-> Numerical modeling and simulation of high-efficiency multijunction solar cells
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamimreza44&show_icons=true&locale=en&layout=compact" alt="shamimreza44" /></p>
 
-🔬 **Strengthening Perovskite Solar Cells**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimreza44&show_icons=true&locale=en" alt="shamimreza44" /></p>
 
-> Literature analysis (2016–2025), stability strategies, bandgap tuning, and performance enhancement
-
-⚡ **Power Electronics for Satellites**
-
-> Applied coursework, converter design, and aerospace energy reliability
-
-📡 **RF + Machine Learning Explorations**
-
-> Conceptual integration of AI into communication systems and antenna design
-
----
-
-## 🛠️ Research Toolbox
-
-* **Programming & Modeling**: Python 🐍 · MATLAB ⚙️ · Verilog 💻 · C 🔧
-* **Simulation/Design**: LTspice ⚡ · Proteus 🔌 · MATLAB Simulink 📊 · COMSOL 🌀
-* **Domains**: Semiconductor Physics 💎 · Photovoltaics ☀️ · Power Electronics ⚡ · RF & Antennas 📡 · VLSI 🔲
-
----
-
-## 📈 Academic Roadmap
-
-✔️ **6-Month Semiconductor Physics Mastery** — deep-dive into device fundamentals
-✔️ **Solar Cell Expertise** — simulation & perovskite-based efficiency improvement strategies
-✔️ **Research Publications** — building an applied academic portfolio
-🚀 **PhD Goal** — contribute to European industry-academic research in **integrated renewables**
-
----
-
-## 📝 Featured Contributions
-
-* 🔬 *Simulation and Numerical Analysis of Triple Absorber Solar Cell* — [Research Paper, Ongoing]
-* 📖 *Strengthening Perovskite Research* — Curated literature review (2016–2025 papers)
-* 📡 *RF + ML Exploratory Project* — GitHub repository with stylized documentation
-* ⚡ *Solid-State & VLSI Coursework* — Logic diagramming, waveform/state analysis
-
----
-
-## 🌐 Academic & Professional Links
-
-<p align="center">
-  <a href="https://github.com/shamimreza44"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/shamimreza44"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="c0io0jhty@mozmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>  
-
----
-
-## ✨ Motto
-
-> *“Engineering today for a renewable tomorrow.”* 🌍⚡
-
----
-
-<p align="center"><img src="/metrics.svg" alt="Metrics" width="400"></p>
